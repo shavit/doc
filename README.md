@@ -1,0 +1,2 @@
+# Doc
+Minimal JS library
